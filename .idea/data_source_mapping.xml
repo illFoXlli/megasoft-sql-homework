@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/3 find_max_salary_worker.sql" value="0101afac-4bd5-4e93-98b6-43833c5df0e9" />
+    <file url="file://$PROJECT_DIR$/4 find_max_projects_client.sql" value="0101afac-4bd5-4e93-98b6-43833c5df0e9" />
+    <file url="file://$PROJECT_DIR$/5 find_longest_project.sql" value="0101afac-4bd5-4e93-98b6-43833c5df0e9" />
+    <file url="file://$PROJECT_DIR$/6 find_youngest_eldest_workers.sql" value="0101afac-4bd5-4e93-98b6-43833c5df0e9" />
+    <file url="file://$PROJECT_DIR$/7 print_project_prices.sql.sql" value="0101afac-4bd5-4e93-98b6-43833c5df0e9" />
+    <file url="file://$PROJECT_DIR$/init_db.sql" value="0101afac-4bd5-4e93-98b6-43833c5df0e9" />
+    <file url="file://$PROJECT_DIR$/populate_db.sql" value="0101afac-4bd5-4e93-98b6-43833c5df0e9" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/0101afac-4bd5-4e93-98b6-43833c5df0e9/console.sql" value="0101afac-4bd5-4e93-98b6-43833c5df0e9" />
+  </component>
+</project>
